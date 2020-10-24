@@ -1,0 +1,6 @@
+.Gradient {
+        width: 400px;
+        height: 200px;
+        background-image: radial-gradient(circle, red, yellow);
+
+}

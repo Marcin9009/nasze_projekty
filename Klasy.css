@@ -1,0 +1,9 @@
+.content {
+    font-size: 16px;
+    font-family: sans-serif;
+    color: blue;
+    font-weight: bold;
+    margin: 20px 0;
+    border: 1px solid #ddd;
+    padding: 20px;
+}

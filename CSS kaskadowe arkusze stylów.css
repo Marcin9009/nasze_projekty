@@ -1,0 +1,35 @@
+
+  
+  /* jeden element o atrybucie id="element" */
+  /* #element {  */
+    /* color: red; */
+    /* padding: 20px 0; */
+  /* } */
+  
+  /* wiele elementów o klasie test */
+  /* .test {  */
+    /* color: blue; */
+    /* margin: 20px 0; */
+    /* bo/rder: 2px solid  
+  <p id="testP">
+  lorem ipsum sit dolor
+</p>
+
+<div id="element">
+  lorem ipsum sit dolor
+</div>
+#testP {
+
+  color: red;  
+
+}
+
+
+#element {
+
+  padding: 10px 0;
+
+  color: blue;
+
+}
+

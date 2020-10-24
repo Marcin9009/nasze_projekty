@@ -1,0 +1,42 @@
+.linline_block {      
+
+    margin: 5px;
+  
+    padding: 15px 20px;
+  
+    color: #fff;
+  
+    font-weight: normal;
+  
+    text-shadow: none;
+  
+    cursor: pointer;
+  
+    border: 0;  
+  
+    font-weight: bold;
+  
+    
+  
+    display: inline-block;
+  
+  }
+  
+  .linline_block-normal {
+  
+    background: #555;
+  
+  }
+  
+  .linline_block-primary {
+  
+    background: dodgerblue;
+  
+  }
+  
+  .linline_block-warning {
+  
+    background: orangered;
+  
+  
+  }

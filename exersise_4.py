@@ -1,0 +1,10 @@
+a1 = 10
+a2 = 15
+sum_value = a1 - a2
+quotos = a1 * a2
+int_parts = int(quotos)
+print("zmienna a1 ", type(a1)," = ", a1)
+print("zmienna a2 ", type(a2)," = ", a2)
+print("zmienna sum_value ", type(sum_value)," = ", sum_value)
+print("zmienna quotos ", type(quotos)," = ", quotos)
+print("zmienna int_parts ", type(int_parts)," = ", int_parts)
